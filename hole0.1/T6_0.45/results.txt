@@ -1,0 +1,19 @@
+FINITE ELEMENT ANALYSIS RESULTS
+========================================
+
+Element type:       T6
+Number of nodes:    1677
+Number of elements: 803
+Number of DOFs:     3354
+
+MAXIMUM RESPONSE
+----------------------------------------
+Maximum displacement: 4.806787e-05 m
+Maximum von Mises:     2.749050e+06 Pa
+
+COMPUTATIONAL TIME
+----------------------------------------
+Mesh generation:    0.006787 s
+Assembly and solve: 0.188803 s
+Stress computation: 0.044823 s
+Total:              0.240414 s

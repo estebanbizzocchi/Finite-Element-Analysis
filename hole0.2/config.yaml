@@ -1,0 +1,19 @@
+geometry:
+  length: 10.0
+  width: 4.0
+  thickness: 0.01
+
+  holes:
+    - center: [5.0, 2.0]
+      radius: 0.2
+
+
+material:
+  young_modulus: 210.0e9
+  poisson_ratio: 0.3
+
+traction: 1.0e6
+
+mesh:
+  element_type: T6
+  element_size: 0.05
